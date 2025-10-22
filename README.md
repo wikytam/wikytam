@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hvdtam&label=Profile%20views&color=0e75b6&style=flat" alt="hvdtam" /> </p>
 
-- 💬 Ask me about **Yii2, React, **
+- 💬 Ask me about **Yii2, React, NodeJS**
 
 - 📫 How to reach me **hvdtam@gmail.com**
 
